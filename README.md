@@ -1,4 +1,6 @@
-disk management is a crucial part of Azure VM administration and storage architecture. Let’s organize this clearly for you. I’ll give you **practical code examples using Azure CLI, PowerShell, ARM Template, Bicep, and Terraform** for common Azure Disk operations.
+# Azure Disk management
+
+Azure Disk Management is a crucial part of Azure VM administration and storage architecture. Let’s organize this clearly for you. I’ll give you **practical code examples using Azure CLI, PowerShell, ARM Template, Bicep, and Terraform** for common Azure Disk operations.
 
 ---
 
